@@ -1,0 +1,17 @@
+.modal-dialog {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+  
+  .modal-content {
+    background-color: #f0f0f0;
+    padding: 20px;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+  
+  .modal-body {
+    padding: 20px;
+  }
